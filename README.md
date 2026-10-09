@@ -78,9 +78,7 @@ ping one another, and DNS/web/mail services resolve correctly from any host.
 
 ## What I configured
 
-*(fill in your specific part here — e.g. "DHCP relay and local DHCP pools
-for Iron Man, Thor, and Captain America" or "RIP v2 dynamic routing across
-the Justice League loop")*
+I configured the full network myself — VLSM addressing, DHCP (both local pools and relay via IP helper-address), DNS and web hosting, RIP v2 dynamic routing across the Justice League loop, static routing for Iron Man/Thor/Captain America, and the floating recursive backup route for Captain America's link failover.
 
 ## Key techniques demonstrated
 
